@@ -1,0 +1,398 @@
+[
+	{
+		"id": "d1c82ae4-4d07-4aef-a07b-035df1149f01",
+		"category": "libre",
+		"total": 5,
+		"listQuestions": [
+			{
+				"id": 279,
+				"question": "Al aproximarse a cualquier redondel o rotonda los conductores deberán según las siguientes disposiciones:",
+				"image": null,
+				"percentage": 1,
+				"wildcards": null,
+				"answers": [
+					{
+						"answer": "El vehículo que viaje dentro de un redondel o rotonda tiene prioridad de paso sobre el que dispone entrar en ella.",
+						"isCorrect": true
+					},
+					{
+						"answer": "El vehículo que viaja en el redondel tiene que hacer alto para salir",
+						"isCorrect": false
+					},
+					{
+						"answer": "Que deben respetar a los vehículos más grandes",
+						"isCorrect": false
+					},
+					{
+						"answer": "Que deben ceder el paso a los vehículos de la policía",
+						"isCorrect": false
+					}
+				]
+			},
+			{
+				"id": 346,
+				"question": "¿Cuál es el nombre de esta señal?",
+				"image": "http://10.175.160.231:8001/storage/img/346.png",
+				"percentage": 1,
+				"wildcards": null,
+				"answers": [
+					{
+						"answer": "Prohibido la vuelta cerrada",
+						"isCorrect": false
+					},
+					{
+						"answer": "Prohibido girar a la derecha",
+						"isCorrect": true
+					},
+					{
+						"answer": "Prohibido regresarse",
+						"isCorrect": false
+					},
+					{
+						"answer": "Prohibido salir por la intersección",
+						"isCorrect": false
+					}
+				]
+			},
+			{
+				"id": 414,
+				"question": "¿Cuál es el nombre de esta señal?",
+				"image": "http://10.175.160.231:8001/storage/img/414.png",
+				"percentage": 1,
+				"wildcards": null,
+				"answers": [
+					{
+						"answer": "Casa de huéspedes",
+						"isCorrect": false
+					},
+					{
+						"answer": "Hostal",
+						"isCorrect": false
+					},
+					{
+						"answer": "Motel",
+						"isCorrect": false
+					},
+					{
+						"answer": "Hotel",
+						"isCorrect": true
+					}
+				]
+			},
+			{
+				"id": 345,
+				"question": "¿Cuál es el nombre de esta señal?",
+				"image": "http://10.175.160.231:8001/storage/img/344.png",
+				"percentage": 1,
+				"wildcards": null,
+				"answers": [
+					{
+						"answer": "Prohibido esperar pasajeros",
+						"isCorrect": false
+					},
+					{
+						"answer": "Prohibido estacionarse",
+						"isCorrect": true
+					},
+					{
+						"answer": "Prohibido regresarse",
+						"isCorrect": false
+					},
+					{
+						"answer": "Prohibido estacionar 10 minutos",
+						"isCorrect": false
+					}
+				]
+			},
+			{
+				"id": 575,
+				"question": "La infracción de Tránsito y seguridad vial siguiente: \"Conducir con el motor apagado o en neutro\" será sancionada con una multa de:",
+				"image": null,
+				"percentage": 1,
+				"wildcards": null,
+				"answers": [
+					{
+						"answer": "$50",
+						"isCorrect": false
+					},
+					{
+						"answer": "$100",
+						"isCorrect": false
+					},
+					{
+						"answer": "$25",
+						"isCorrect": false
+					},
+					{
+						"answer": "$150",
+						"isCorrect": true
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "a7b59150-dd4d-4c54-bb84-1bc6d28892c4",
+		"category": "vmt",
+		"total": 5,
+		"listQuestions": [
+			{
+				"id": 241,
+				"question": "La parada o estacionamiento de un vehículo en vías interurbanas deberá efectuarse:",
+				"image": null,
+				"percentage": 3.3333333333333335,
+				"wildcards": null,
+				"answers": [
+					{
+						"answer": "En cualquier lado de la vía con precaución",
+						"isCorrect": false
+					},
+					{
+						"answer": "En los lugares con menos tráfico",
+						"isCorrect": false
+					},
+					{
+						"answer": "En el lado derecho de la vía",
+						"isCorrect": true
+					},
+					{
+						"answer": "En ninguno de los casos anteriores",
+						"isCorrect": false
+					}
+				]
+			},
+			{
+				"id": 584,
+				"question": "La infracción de Tránsito y seguridad vial siguiente: \"Pintar sobre la red vial sin previa autorización, así como dañar, remover o inutilizar las señales viales o dispositivos viales\" será sancionada con una multa de:",
+				"image": null,
+				"percentage": 3.3333333333333335,
+				"wildcards": null,
+				"answers": [
+					{
+						"answer": "$150",
+						"isCorrect": true
+					},
+					{
+						"answer": "$50",
+						"isCorrect": false
+					},
+					{
+						"answer": "$100",
+						"isCorrect": false
+					},
+					{
+						"answer": "$25",
+						"isCorrect": false
+					}
+				]
+			},
+			{
+				"id": 491,
+				"question": "¿Cuál es el nombre de esta señal?",
+				"image": "http://10.175.160.231:8001/storage/img/491.png",
+				"percentage": 3.3333333333333335,
+				"wildcards": null,
+				"answers": [
+					{
+						"answer": "Zona de recreo",
+						"isCorrect": false
+					},
+					{
+						"answer": "Zona de peatones",
+						"isCorrect": false
+					},
+					{
+						"answer": "Zona escolar",
+						"isCorrect": true
+					},
+					{
+						"answer": "Zona de parques",
+						"isCorrect": false
+					}
+				]
+			},
+			{
+				"id": 118,
+				"question": "La infracción de Tránsito y seguridad vial siguiente: \"No ceder el paso a los peatones que se encuentren cruzando por la vía de seguridad peatonal\" será sancionada con una multa de:",
+				"image": null,
+				"percentage": 3.3333333333333335,
+				"wildcards": null,
+				"answers": [
+					{
+						"answer": "$100",
+						"isCorrect": true
+					},
+					{
+						"answer": "$50",
+						"isCorrect": false
+					},
+					{
+						"answer": "$150",
+						"isCorrect": false
+					},
+					{
+						"answer": "$25",
+						"isCorrect": false
+					}
+				]
+			},
+			{
+				"id": 556,
+				"question": "La infracción de Tránsito y seguridad vial siguiente: \"Circular con las placas no visibles, colocar objetos cubiertas o protectores sobre la placa, luces o cualquier otro elemento que obstaculice su visibilidad\" será sancionada con una multa de:",
+				"image": null,
+				"percentage": 3.3333333333333335,
+				"wildcards": null,
+				"answers": [
+					{
+						"answer": "$50",
+						"isCorrect": false
+					},
+					{
+						"answer": "$150",
+						"isCorrect": true
+					},
+					{
+						"answer": "$25",
+						"isCorrect": false
+					},
+					{
+						"answer": "$100",
+						"isCorrect": false
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "3df2b292-de57-433a-94a6-7f6803a437dd",
+		"category": "senalizacion",
+		"total": 5,
+		"listQuestions": [
+			{
+				"id": 411,
+				"question": "¿Cuál es el nombre de esta señal?",
+				"image": "http://10.175.160.231:8001/storage/img/411.png",
+				"percentage": 2.5,
+				"wildcards": null,
+				"answers": [
+					{
+						"answer": "Cantarera",
+						"isCorrect": false
+					},
+					{
+						"answer": "Lavadero público",
+						"isCorrect": false
+					},
+					{
+						"answer": "Lavadero municipal",
+						"isCorrect": false
+					},
+					{
+						"answer": "Agua potable",
+						"isCorrect": true
+					}
+				]
+			},
+			{
+				"id": 336,
+				"question": "¿Cuál es el significado de esta señal?",
+				"image": "http://10.175.160.231:8001/storage/img/336.png",
+				"percentage": 2.5,
+				"wildcards": null,
+				"answers": [
+					{
+						"answer": "Parar y luego seguir",
+						"isCorrect": false
+					},
+					{
+						"answer": "Detenerse por completo la marcha y ceder el paso",
+						"isCorrect": true
+					},
+					{
+						"answer": "Sólo dejará pasar a los vehículos con sirena encendida",
+						"isCorrect": false
+					},
+					{
+						"answer": "Retroceder y seguir recto",
+						"isCorrect": false
+					}
+				]
+			},
+			{
+				"id": 404,
+				"question": "¿Cuál es el significado de esta señal?",
+				"image": "http://10.175.160.231:8001/storage/img/404.png",
+				"percentage": 2.5,
+				"wildcards": null,
+				"answers": [
+					{
+						"answer": "Luces direccionales para protección de obreros en camino",
+						"isCorrect": true
+					},
+					{
+						"answer": "Luces de emergencia",
+						"isCorrect": false
+					},
+					{
+						"answer": "Luces direccionales",
+						"isCorrect": false
+					},
+					{
+						"answer": "Luces de parqueo",
+						"isCorrect": false
+					}
+				]
+			},
+			{
+				"id": 382,
+				"question": "¿Cuál es el nombre de esta señal?",
+				"image": "http://10.175.160.231:8001/storage/img/382.png",
+				"percentage": 2.5,
+				"wildcards": null,
+				"answers": [
+					{
+						"answer": "Siga por la derecha",
+						"isCorrect": false
+					},
+					{
+						"answer": "Sólo para peatones",
+						"isCorrect": false
+					},
+					{
+						"answer": "Prohibido cruce peatones",
+						"isCorrect": true
+					},
+					{
+						"answer": "Prohibido usar la acera",
+						"isCorrect": false
+					}
+				]
+			},
+			{
+				"id": 398,
+				"question": "¿Cuál es el nombre de esta señal?",
+				"image": "http://10.175.160.231:8001/storage/img/398.png",
+				"percentage": 2.5,
+				"wildcards": null,
+				"answers": [
+					{
+						"answer": "Abanderado",
+						"isCorrect": true
+					},
+					{
+						"answer": "Marcha",
+						"isCorrect": false
+					},
+					{
+						"answer": "Banderillero",
+						"isCorrect": false
+					},
+					{
+						"answer": "Parqueador",
+						"isCorrect": false
+					}
+				]
+			}
+		]
+	}
+]
